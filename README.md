@@ -10,3 +10,5 @@ The program will display the list of all entered coffee names.
 ## Requirements
 .NET SDK
 C# compiler
+
+![image](https://github.com/user-attachments/assets/867ac0bb-b765-426f-a095-68ff581317d6)
